@@ -26,7 +26,7 @@ struct ContentView: View {
                     .bold()
                     Text("IOS Developer")
                         .foregroundColor(.white)
-                        .font(.system(size: 25))
+                        .font(.system(size: 30))
                     
                 }
                 Divider()
